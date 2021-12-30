@@ -1,0 +1,24 @@
+Funciones
+
+Agacharse
+AntiCulatazo
+AntiJump
+Animacion de armas
+Comando /armas para guardar el arma con la mochila
+Caballito
+Cruzar brazos
+Daño de armas
+Daño al caminar
+Desmayarse
+Caminar herido
+Meterse en el maletero
+Id en la cabeza con comando
+Tacleo
+Marca de Agus
+El conductor no dispara
+Los NPC no arrojan armas
+Comando /sacarplaca para la patente
+Senalar
+Timer Tazer para que se recargue cada cierto tiempo
+TPM
+Teleport
